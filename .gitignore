@@ -18,6 +18,8 @@ atlas/
 eckit/
 fckit/
 
+# GSIBEC
+gsibec/
 
 # JEDI core repos
 jedicmake/
